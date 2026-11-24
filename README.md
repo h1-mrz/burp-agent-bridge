@@ -6,6 +6,8 @@ requests, Collaborator, Organizer, saved requests, and the focused message
 editor. The bridge exposes 49 tools and 50 HTTP endpoints, with a Python server
 that speaks MCP over stdio, Streamable HTTP, or SSE.
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/h1-mrz-burp-agent-bridge-1a2vax?v=ecd88c9c0d8f75ed1f05ef2348b7c7dd)](https://m8ven.ai/mcp/h1-mrz-burp-agent-bridge-1a2vax?s=readme)
+
 ## Quick start
 
 1. Download `burp-agent-bridge-v2.1.0.zip` from the Releases page of this
@@ -408,4 +410,4 @@ The script sandbox denies Java classes. It exposes four host globals: `args`,
   `audit_list` exposes a call log, and hosts are checked against an allowlist.
 - Tool count: 49.
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/h1-mrz-burp-agent-bridge-1a2vax?v=ecd88c9c0d8f75ed1f05ef2348b7c7dd)](https://m8ven.ai/mcp/h1-mrz-burp-agent-bridge-1a2vax?s=readme)
+
