@@ -407,3 +407,5 @@ The script sandbox denies Java classes. It exposes four host globals: `args`,
 - Every call requires a credential. Exports mask credential-like keys by default.
   `audit_list` exposes a call log, and hosts are checked against an allowlist.
 - Tool count: 49.
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/h1-mrz-burp-agent-bridge-1a2vax?v=ecd88c9c0d8f75ed1f05ef2348b7c7dd)](https://m8ven.ai/mcp/h1-mrz-burp-agent-bridge-1a2vax?s=readme)
